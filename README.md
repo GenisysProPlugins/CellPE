@@ -1,5 +1,8 @@
 # CellPE
-For MCPE Prison Servers Enjoy!
+A small cell plugin for GenisysPro. It allows you to create many cells and let your players buy them with a command.
+Alot more coming soon like Guards.
+
+Required plugin(s): • EconomyAPI by onebone (https://github.com/onebone/EconomyS/tree/master/EconomyAPI)
 [![Poggit-CI](https://poggit.pmmp.io/ci.badge/BajanVlogs/CellPE/CellPE)](https://poggit.pmmp.io/ci.badge/BajanVlogs/CellPE/CellPE)
 
 [(https://poggit.pmmp.io/ci/BajanVlogs/CellPE/CellPE)]
