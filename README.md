@@ -6,3 +6,6 @@ Required plugin(s): • EconomyAPI by onebone (https://github.com/onebone/Econom
 [![Poggit-CI](https://poggit.pmmp.io/ci.badge/BajanVlogs/CellPE/CellPE)](https://poggit.pmmp.io/ci.badge/BajanVlogs/CellPE/CellPE)
 
 [(https://poggit.pmmp.io/ci/BajanVlogs/CellPE/CellPE)]
+
+Original Creator Of This Plugin Was Vaivez66.
+(https://github.com/Vaivez66/CellPE)
